@@ -1,0 +1,25 @@
+{
+  "name": "elliptical-jquery",
+  "description": "JavaScript library for DOM operations",
+  "version":"2.1.5",
+  "main": "dist/jquery.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "javascript",
+    "browser",
+    "library"
+  ],
+  "homepage": "https://github.com/tachyon1337/jquery",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
