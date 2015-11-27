@@ -1,7 +1,7 @@
 {
   "name": "elliptical-jquery",
   "description": "JavaScript library for DOM operations",
-  "version":"3.0.6",
+  "version":"3.0.7",
   "main": "dist/jquery.js",
   "authors": [
     "[object Object]"
@@ -13,7 +13,7 @@
     "browser",
     "library"
   ],
-  "homepage": "https://github.com/tachyon1337/jquery",
+  "homepage": "https://github.com/ellipticaljs/jquery",
   "moduleType": [],
   "ignore": [
     "**/.*",
