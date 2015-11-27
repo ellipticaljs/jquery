@@ -1,7 +1,8 @@
 [jQuery](http://jquery.com/) — New Wave JavaScript
 ==================================================
 
-  # NOTICE
+NOTICE
+--------------------------------------
 
 This repo is now deprecated. The project has moved to https://github.com/ellipticaljs/jquery
 
