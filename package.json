@@ -2,7 +2,7 @@
   "name": "elliptical-jquery",
   "title": "jQuery",
   "description": "JavaScript library for DOM operations",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "main": "dist/jquery.js",
   "homepage": "http://jquery.com",
   "author": {
